@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'goldsrc'
+project = 'TOTALLY NOT'
 copyright = '2018, Rony'
 author = 'Rony'
 
@@ -74,7 +74,14 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+
+try:
+    import tachyonic_sphinx
+    html_theme = 'tachyonic'
+    html_theme_path = tachyonic_sphinx.get_html_theme_path()
+except ImportError:
+    html_theme = 'default'
+
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -128,7 +135,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'goldsrc.tex', 'goldsrc Documentation',
+    (master_doc, 'goldsrc.tex', 'TOTALLY NOT DOCUMENTATION',
      'Rony', 'manual'),
 ]
 
@@ -138,7 +145,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'goldsrc', 'goldsrc Documentation',
+    (master_doc, 'Blog', 'TOTALLY NOT DOCUMENTATION',
      [author], 1)
 ]
 
@@ -149,7 +156,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'goldsrc', 'goldsrc Documentation',
+    (master_doc, 'goldsrc', 'TOTALLY NOT DOCUMENTATION',
      author, 'goldsrc', 'One line description of project.',
      'Miscellaneous'),
 ]
