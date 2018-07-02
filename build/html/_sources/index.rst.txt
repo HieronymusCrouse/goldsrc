@@ -1,0 +1,23 @@
+.. goldsrc documentation master file, created by
+   sphinx-quickstart on Mon Jul  2 18:00:31 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+This is not documentation!
+===================================
+This is a blog hosted for free on Github.
+Thanks world of open source!
+I swear this is not documentation! 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+   about 
+   thoughts/index
+   tutorials/index
+
+
+
+
