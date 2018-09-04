@@ -17,6 +17,7 @@ I swear this is not documentation!
    about 
    thoughts/index
    tutorials/index
+   articles/index
 
 
 

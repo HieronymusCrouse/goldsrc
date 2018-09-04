@@ -1,0 +1,12 @@
+Hatfield
+==========
+
+
+I love living in Hatfield. I love it in the same way that I love living in Pretoria and in Gauteng in general. I am fascinated by any manifestation of “City”.  Living here and having the infinitely complex tapestry of the “City” be the background to the activities of my daily life is profoundly stimulating and satisfying regardless of the specific city. 
+Think of the notion of “City” as the material manifestation of societal living,  literally the accumulation of buildings and ancillary structures that emerges from the chaotic, organic system of  thousands of individual people living and working together. Growing exponentially in complexity and scope.
+
+Hatfield is characterized by the campus ground and by high density student accommodation.  This makes for an interesting setup with thousands of people living in a very condensed area. These people are of course mostly students who themselves are characterized by a low budget and a high propensity for self indulgence. The feel and aesthetic of Hatfield is necessarily affected by these factors.
+
+You could say that Burnette street is the heart of Hatfield; capped off by garages on either side and containing an almost unbroken strip of various outlets and of course Hatfield mall. This district was not neatly planned out, it arose from the chaos of people acting independently out of necessity, it does not feature the monotonous orderliness of cities designed to impress, as a result it is bursting with visible life and detail. Burnette is a grimy promenade fast food opulence, rowdy self expression and the unflattering reality of student life, with it’s ever present grind and hedonism, all accompanied by the white noise of construction and taxis.  You might not go to Burnette street to celebrate the end of the semester but you certainly will if it’s 3 am and you need a pack of cigarettes and some comfort food.
+
+Burnette street reflects the cultural quality of Hatfield as a whole, shaped by people who prioritize budget and walking distance. It is not glamorous, it is not pretty, it is functional and unpretentious. It’s a small node of high density, hyper urban life outside the inner city. It’s small size is not to the detriment of my fascination however. It makes it all the more interesting to observe the amount of complexity and character that still emerges from the “City” when you remember that it’s lively portion really only spans a few blocks. 

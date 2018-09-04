@@ -3,21 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-This is not documentation!
+Articles 
 ===================================
-This is a blog hosted for free on Github.
-Thanks world of open source!
-I swear this is not documentation! 
 
 .. toctree::
    :maxdepth: 2
 
 
 
-   about 
-   thoughts/index
-   tutorials/index
-   articles/index
+   hatfield
 
 
 

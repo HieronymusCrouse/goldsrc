@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'TOTALLY NOT'
+project = 'Rony Blog'
 copyright = '2018, Rony'
 author = 'Rony'
 
